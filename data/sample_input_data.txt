@@ -1,0 +1,10 @@
+START
+i am part of one
+i am part of one
+STOP START
+i am part of two
+i am part of two
+STOP
+START
+i am part of three
+i am art of three STOP
